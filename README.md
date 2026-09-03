@@ -1,3 +1,3 @@
 # cgloves-evenif-inv-private
 A tool for cheking gloves in sb, even if the inventory of the user is private. Based on requests so make sure to install that. 
-Dont use too oftenly or itll error due to fast requests
+Dont use too oftenly or itll error due to fast requests. Start with py -3.12 [your file name here]
